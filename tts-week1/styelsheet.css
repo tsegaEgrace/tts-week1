@@ -1,0 +1,53 @@
+h1 {
+  color: darkcyan;
+  font-size: 30px;
+  text-align: center;
+  width: auto;
+  border-style: dashed;
+  background-color: hotpink;
+  font-style: oblique;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font-weight: 500px;
+}
+body {
+  background-color: darkslategray;
+  color: darkkhaki;
+  text-align: left;
+}
+div,
+p {
+  color: royalblue;
+  text-align: center;
+  width: auto;
+  font-size: 25px;
+  font-style: italic;
+}
+a:visited {
+  color: darkviolet;
+}
+a:hover {
+  color: deepskyblue;
+}
+table tr {
+  background-color: blueviolet;
+  text-align: center;
+  margin: auto;
+}
+li {
+  align-self: center;
+  font-size: large;
+}
+table {
+  padding-top: 0;
+  padding-bottom: 5%;
+  table-layout: auto;
+}
+th {
+  padding-top: 4%;
+  padding-bottom: 4%;
+  font-size: 20px;
+}
+td {
+  padding: 2%;
+}
