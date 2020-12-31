@@ -1,0 +1,11 @@
+*
+body {
+
+	background-image: url(/images/map.jpg);
+	background-image: cover;
+} 
+
+
+.container {
+	padding: 30px;
+}
